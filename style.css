@@ -47,11 +47,14 @@ div p{
   margin: 20px;
 }
 
-img{
+#image img{
   border-radius: 4px;
-  margin:10px;
+  margin:5px;
 }
- 
+
+#image em{
+  margin: 5px;
+}
 
 a:hover {
   background-color: #DBDBDB;
