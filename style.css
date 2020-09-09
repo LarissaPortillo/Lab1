@@ -1,5 +1,5 @@
 /* CSS files add styling rules to your content */
-
+@import url('https://fonts.googleapis.com/css?family=Bellota Text');
 body {
   background-color: white ;
 
@@ -7,6 +7,6 @@ body {
 }
 
 h1 {
-  font-family: verdana, sans-serif;
+  font-family: 'Bellota Text';
   color: #373fff;
 }
