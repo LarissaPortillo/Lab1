@@ -10,9 +10,28 @@ body {
 }
 
 h1 {
-  width: 50%;
+  width: 45%;
   margin: 20px;
+  font-size: 75px;
+  font-weight: lighter;
 }
+
+.button{
+  margin: 20px;
+  background-color:#5C5048;
+}
+
+.button:hover{
+  background-color: purple;
+}
+
+div#content{
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+
 
 
 div p{
@@ -23,12 +42,7 @@ div p{
   width: 45%;
 }
 
-.button{
-  margin: 20px;
-  background-color:#5C5048;
-  
-  
-}
+
 
 a:hover {
   background-color: #DBDBDB;
