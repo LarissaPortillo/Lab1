@@ -8,5 +8,14 @@ body {
 
 h1 {
   font-family: 'Raleway';
-  color: black;
+  font-weight: lighter;
+  color: grey;
+}
+
+#content{
+  
+}
+
+button.button{
+  background-color:brown;
 }
