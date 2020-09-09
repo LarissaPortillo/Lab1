@@ -17,6 +17,7 @@ h1 {
 
 .button{
   background-color:#5C5048;
+  margin:20px;
 }
 
 .button:hover{
@@ -25,15 +26,16 @@ h1 {
 
 #content{
   float: left;
-  width: 45%;
+  width: 48%;
   padding: 10px;
+
 }
 
 #image{
   float:right;
-  width: 45%;
-  padding: 10px;
-  margin:10px;
+  width: 48%;
+  padding: 20px;
+  margin:20px;
 }
 
 
@@ -41,11 +43,12 @@ div p{
   background-color:#DBDBDB;
   border-radius: 4px;
   padding: 30px;
-  margin: 15px;
+  margin: 20px;
 }
 
 img{
   border-radius: 4px;
+  margin:10px;
 }
 
 a:hover {
