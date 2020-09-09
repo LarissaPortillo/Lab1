@@ -16,6 +16,18 @@ h1 {
   
 }
 
-button.button{
-  background-color:brown;
+div p{
+  
+}
+
+.button{
+  background-color:#5C5048;
+  font-family: 'Raleway';
+  font-size: 10;
+  color:white;
+  border-radius: ypx;
+}
+
+a:hover {
+  background-color: blue;
 }
