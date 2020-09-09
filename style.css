@@ -12,18 +12,27 @@ h1 {
   color: grey;
 }
 
-#content{
-  
+#image{
+  float: left;
+  padding: 10px;
+  margin: 10px;
 }
 
 div p{
   background-color:#DBDBDB;
+  font-family:'Raleway';
   border-radius: 4px;
-  float: left;
+  
+  width: 640px;
+  font-weight: lighter;
+  color: grey;
+  padding: 10px;
+  margin: 10px;   
     
 }
 
 .button{
+  margin: 10px ;
   background-color:#5C5048;
   font-family: 'Raleway';
   font-size: 15px;
