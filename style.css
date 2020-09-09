@@ -1,5 +1,8 @@
 /* CSS files add styling rules to your content */
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+
+
 body {
   background-color: white ;
 
@@ -7,10 +10,9 @@ body {
 }
 
 h1 {
-  font-family: 'Raleway';
-  font-weight: lighter;
-  font-size: 50px;
-  color: grey;
+ 
+
+
   width: 640px;
   margin: 20px;
   padding:10px;
@@ -19,15 +21,12 @@ h1 {
 
 
 
-.left{
-  padding: 10px;
-  margin: 10px;
-  font-family: 'Raleway';
-  width: 45%;
-}
+
 
 img {
   border-radius: 4px;
+  width: 410px;
+  padding: 10px;
   
 }
 #content{
@@ -36,7 +35,7 @@ img {
 
 div p{
   background-color:#DBDBDB;
-  font-family:'Raleway';
+  /*font-family:'Raleway';*/
   border-radius: 4px;
   width: 45%;
   font-weight: lighter;
