@@ -17,15 +17,17 @@ h1 {
 }
 
 div p{
+  background-color:#DBDBDB;
+  border-radius: 4px
   
 }
 
 .button{
   background-color:#5C5048;
   font-family: 'Raleway';
-  font-size: 10;
+  font-size: 15px;
   color:white;
-  border-radius: ypx;
+  border-radius: 4px;
 }
 
 a:hover {
