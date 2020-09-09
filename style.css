@@ -1,12 +1,12 @@
 /* CSS files add styling rules to your content */
 
 body {
-  background-color: white;
-  color:red;
+  background-color: white ;
+
   
 }
 
 h1 {
-  font-family: Verdana;
+  font-family: verdana, sans-serif;
   color: #373fff;
 }
