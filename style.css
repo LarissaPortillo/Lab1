@@ -5,55 +5,29 @@
 
 body {
   background-color: white ;
-
+  
   
 }
 
 h1 {
- 
-
-
-  width: 640px;
+  width: 50%;
   margin: 20px;
-  padding:10px;
-  width: 640px;
 }
 
-
-
-
-
-img {
-  border-radius: 4px;
-  width: 410px;
-  padding: 10px;
-  
-}
-#content{
-  left:0;
-}
 
 div p{
   background-color:#DBDBDB;
-  /*font-family:'Raleway';*/
   border-radius: 4px;
-  width: 45%;
-  font-weight: lighter;
-  color: grey;
   padding: 25px;
-  margin: 20px;   
-    
+  margin: 20px;
+  width: 45%;
 }
 
 .button{
-  margin: 10px ;
+  margin: 20px;
   background-color:#5C5048;
-  font-family: 'Raleway';
-  font-size: 15px;
-  padding: 15px 32px;
-  color:white;
-  border-radius: 4px;
-  margin: 20px; 
+  
+  
 }
 
 a:hover {
